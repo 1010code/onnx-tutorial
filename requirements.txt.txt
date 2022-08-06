@@ -1,0 +1,2 @@
+onnxruntime==1.12.1
+tf2onnx==1.12.0
